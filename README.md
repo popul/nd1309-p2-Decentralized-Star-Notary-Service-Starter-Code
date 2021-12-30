@@ -1,6 +1,12 @@
 # ND1309 C2 Ethereum Smart Contracts, Tokens and Dapps - Project Starter 
 **PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.
 
+## Token created
+
+- ERC Token name : Star
+- ERC Symbol: STR
+- Contract address on rinkeby network: 0x3Ad2e10Ec862d7BdE47d318e3A0527feD3903CF8
+
 ### ToDo
 This Starter Code has already implemented the functionalities you implemented in the StarNotary (Version 2) exercise, and have comments in all the files you need to implement your tasks.
 
